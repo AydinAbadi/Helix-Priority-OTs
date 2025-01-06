@@ -295,6 +295,3 @@ int main() {
   cout<<"\n n: "<<n<<endl;
   return 0;
 }
-
-
-//// g++ -std=c++11 -lgmpxx -lgmp main.cpp -o main
