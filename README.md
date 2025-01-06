@@ -1,4 +1,4 @@
-# OTs
+# The Implementation of two OTs: Helix & Priority, published in a paper called: Scalable Post-Quantum Oblivious Transfers for Resource-Constrained Receivers
 
 Dependency:
 
